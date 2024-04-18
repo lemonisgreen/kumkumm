@@ -17,6 +17,12 @@ struct ContentView: View {
 //                .frame
             Text("Watasino sistuzisama, kumkumm")
                 .font(.title3)
+            Text("Watasino sistuzisama, kumkumm")
+            Text("Watasino sistuzisama, kumkumm")
+            Text("Watasino sistuzisama, kumkumm")
+            Text("Watasino sistuzisama, kumkumm")
+            Text("Watasino sistuzisama, kumkumm")
+            
         }
         .padding()
     }
