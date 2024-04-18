@@ -15,7 +15,7 @@ struct ContentView: View {
 //                .foregroundStyle(.tint)
 //                .padding()
 //                .frame
-            Text("sistuzisama, kumkumm")
+            Text("Watasino sistuzisama, kumkumm")
                 .font(.title3)
         }
         .padding()
